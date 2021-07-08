@@ -1,9 +1,9 @@
 import cv2
-import math
-import numpy as np
+#import math
+#import numpy as np
 
-file_src = 'cat.jpg'
-file_dst = 'dst.png'
+#file_src = 'cat.jpg'
+#file_dst = 'dst.png'
 
 img_src = cv2.imread(file_src, 1) # 入力画像の読み込み
 
